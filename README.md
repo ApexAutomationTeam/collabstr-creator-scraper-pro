@@ -24,7 +24,7 @@ A high-performance in-browser automation tool specifically engineered to extract
 To verify how this script operates and review its live interface:
 
 * 📥 **[Watch / Download Demo Video from Official Release](https://github.com/ApexAutomationTeam/collabstr-creator-scraper-pro/releases/tag/v3.4.6)**
-* 📦 **[View Release Assets v1.0.0](https://github.com/ApexAutomationTeam/collabstr-creator-scraper-pro/releases/tag/v3.4.6)**
+* 📦 **[View Release Assets v3.5](https://github.com/ApexAutomationTeam/collabstr-creator-scraper-pro/releases/tag/v3.4.6)**
 
 ---
 
